@@ -1,8 +1,7 @@
-import React from 'react';
-import { LendingPage } from './components/views/LendingPage';
+import { LendingPage } from '@views/LendingPage';
 
 function App() {
-    return <LendingPage></LendingPage>;
+  return <LendingPage></LendingPage>;
 }
 
 export default App;

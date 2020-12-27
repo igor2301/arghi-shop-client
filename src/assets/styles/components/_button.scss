@@ -1,0 +1,13 @@
+.#{$namespace}-button {
+  background-color: aqua;
+  border: none;
+  outline: none;
+
+  &:hover {
+    background-color: azure;
+  }
+
+  &:active {
+    background-color: blanchedalmond;
+  }
+}
