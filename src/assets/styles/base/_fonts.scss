@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+h1 {
+  font-family: $font-family;
+  font-size: $font-size-giant;
+  line-height: $line-height-giant;
+  font-weight: $font-weight-normal;
+  word-break: break-word;
+  margin: 0;
+}
+
+h2 {
+  font-family: $font-family;
+  font-size: $font-size-huge;
+  line-height: $line-height-huge;
+  font-weight: $font-weight-normal;
+  word-break: break-word;
+  margin: 0;
+}
+
+h3 {
+  font-family: $font-family;
+  font-size: $font-size-big;
+  line-height: $line-height-big;
+  font-weight: $font-weight-normal;
+  word-break: break-word;
+  margin: 0;
+}
+
+.base-text {
+  font-family: $font-family;
+  font-size: $font-size-medium;
+  line-height: $line-height-medium;
+  font-weight: $font-weight-normal;
+  word-break: break-word;
+}
+
+.small-text {
+  font-family: $font-family;
+  font-size: $font-size-small;
+  line-height: $line-height-small;
+  font-weight: $font-weight-normal;
+  word-break: break-word;
+}

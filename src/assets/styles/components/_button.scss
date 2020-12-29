@@ -1,14 +1,15 @@
 .#{$namespace}-button {
+  display: inline-block;
   border: none;
   outline: none;
-  border-radius: 5px;
-  padding: 5px 10px;
+  padding: 10px 30px;
+  color: $tetrary-color;
 
   &--primary {
-    background-color: aquamarine;
+    background-color: $primary-color;
   }
 
   &--secondary {
-    background-color: burlywood;
+    background-color: $secondary-color;
   }
 }
